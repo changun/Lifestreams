@@ -1,3 +1,6 @@
+This version of Lifestreams is deprecated. Please see [new Lifestreams](https://github.com/ohmage/lifestreams) for the latest version.
+===========
+
 Lifestreams
 ===========
 
